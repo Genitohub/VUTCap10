@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 35,
+    "left": 0,
+    "width": 484,
+    "height": 645,
+    "isRotated": true,
+    "originalWidth": 484,
+    "originalHeight": 716
+  },
+  "imagePath": "image-targets/V1012_luminance.jpg",
+  "metadata": null,
+  "name": "V1012",
+  "resources": {
+    "originalImage": "V1012_original.jpg",
+    "croppedImage": "V1012_cropped.jpg",
+    "thumbnailImage": "V1012_thumbnail.jpg",
+    "luminanceImage": "V1012_luminance.jpg"
+  },
+  "created": 1790196461769,
+  "updated": 1790196461769
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 31,
+    "width": 613,
+    "height": 818,
+    "isRotated": true,
+    "originalWidth": 676,
+    "originalHeight": 818
+  },
+  "imagePath": "image-targets/V1042_luminance.jpg",
+  "metadata": null,
+  "name": "V1042",
+  "resources": {
+    "originalImage": "V1042_original.jpg",
+    "croppedImage": "V1042_cropped.jpg",
+    "thumbnailImage": "V1042_thumbnail.jpg",
+    "luminanceImage": "V1042_luminance.jpg"
+  },
+  "created": 1794868626431,
+  "updated": 1794868626431
+}

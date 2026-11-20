@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 48,
+    "left": 0,
+    "width": 596,
+    "height": 794,
+    "isRotated": true,
+    "originalWidth": 596,
+    "originalHeight": 891
+  },
+  "imagePath": "image-targets/V1001_luminance.jpg",
+  "metadata": null,
+  "name": "V1001",
+  "resources": {
+    "originalImage": "V1001_original.jpg",
+    "croppedImage": "V1001_cropped.jpg",
+    "thumbnailImage": "V1001_thumbnail.jpg",
+    "luminanceImage": "V1001_luminance.jpg"
+  },
+  "created": 1790116578884,
+  "updated": 1790116578884
+}
